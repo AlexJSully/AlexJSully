@@ -6,11 +6,11 @@
 <br>
 🎓 MSc from the University of Toronto at the [@BioAnalyticResource](https://bar.utoronto.ca/)/Nicholas Provart lab.
 <br>
-👯Always open to collaborate or chat on anything gaming, web, VR or bioinformatics/biology related!
+👯 Always open to collaborate or chat on anything gaming, web, VR or bioinformatics/biology related!
 <br>
 🌱 I’m currently learning web performance optimizations, Unity 3D and Japanese.
 <br>
-⚡Fun fact - I have two cute and amazing cats: MuMu ![](https://cdn.discordapp.com/emojis/922303368460898334.webp?size=96&quality=lossless) & JuJu ![](https://cdn.discordapp.com/emojis/922303097949290536.webp?size=96&quality=lossless) (also I like pixel art)
+⚡ Fun fact - I have two cute and amazing cats: MuMu ![](https://cdn.discordapp.com/emojis/922303368460898334.webp?size=96&quality=lossless) & JuJu ![](https://cdn.discordapp.com/emojis/922303097949290536.webp?size=96&quality=lossless) (also I like pixel art)
 
 ## 🌐 Socials:
 
