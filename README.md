@@ -58,19 +58,25 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJSully&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJSully&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
-## 🐦 Latest Tweet
+# 🐦 Latest Tweet
 
-[![](https://gtce.itsvg.in/api?username=AlexJSully)](https://twitter.com/AlexJSully)
+<div align="center">
+	<a href="https://twitter.com/AlexJSully">
+  		<img src="https://gtce.itsvg.in/api?username=AlexJSully" />
+	</a>
+</div>
 
----
+# 📈 My GitHub Profile Views:
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/AlexJSully/count.svg?"  />
 </div>
 
-## 💰 You can help me by Donating
+# 💰 You can help me by Donating
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alexjsully)
 
