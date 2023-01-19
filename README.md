@@ -62,11 +62,13 @@
 
 ## 🐦 Latest Tweet
 
-[![](https://gtce.itsvg.in/api?username=AlexJSully)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=AlexJSully)](https://twitter.com/AlexJSully)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AlexJSully&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AlexJSully/count.svg?"  />
+</div>
 
 ## 💰 You can help me by Donating
 
