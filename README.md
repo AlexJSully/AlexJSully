@@ -1,22 +1,22 @@
-# 💫 About Me:
+# 💫 About Me
 
 👋 Hello world! My name is Alex and I'm a full stack developer and bioinformatician.
 <br><br>
-💻 Currently developer at [Masterpiece Studio](https://masterpiecestudio.com/).
+💻 Ex-developer at [Masterpiece Studio](https://www.masterpiecex.com/).
 <br>
 🎓 MSc from the University of Toronto at the [@BioAnalyticResource](https://bar.utoronto.ca/)/Nicholas Provart lab.
 <br>
 👯 Always open to collaborate or chat on anything gaming, web, VR or bioinformatics/biology related!
 <br>
-🌱 I’m currently learning web performance optimizations, Unity 3D and Japanese.
+🌱 I’m currently learning web performance optimizations and Unity 3D.
 <br>
 ⚡ Fun fact - I have two cute and amazing cats: MuMu ![](https://cdn.discordapp.com/emojis/922303368460898334.webp?size=96&quality=lossless) & JuJu ![](https://cdn.discordapp.com/emojis/922303097949290536.webp?size=96&quality=lossless) (also I like pixel art)
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ironjoohyun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexanderjsullivan) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/alexjsully) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AlexJSully)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -47,22 +47,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="42" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="42" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="google firebase logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" width="42" alt="markdown logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" width="42" alt="gitlab logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" width="42" alt="xd logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" width="42" alt="inkscape logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" width="42" alt="blender logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
 </div>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJSully&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-# 📈 My GitHub Profile Views:
+# 📈 My GitHub Profile Views
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/AlexJSully/count.svg?"  />
