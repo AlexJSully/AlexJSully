@@ -2,8 +2,6 @@
 
 👋 Hello world! My name is Alex and I'm a full stack developer and bioinformatician.
 <br><br>
-💻 Ex-developer at [Masterpiece Studio](https://www.masterpiecex.com/).
-<br>
 🎓 MSc from the University of Toronto at the [@BioAnalyticResource](https://bar.utoronto.ca/)/Nicholas Provart lab.
 <br>
 👯 Always open to collaborate or chat on anything gaming, web, VR or bioinformatics/biology related!
