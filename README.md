@@ -25,7 +25,7 @@ Checkout my portfolio at <https://alexjsully.me>!
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJSully&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJSully&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=pie&langs_count=10" />
 </div>
 
 # 📈 My GitHub Profile Views
