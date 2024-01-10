@@ -10,7 +10,7 @@
 <br>
 ⚡ Fun fact - I have two cute and amazing cats: MuMu ![](https://cdn.discordapp.com/emojis/922303368460898334.webp?size=96&quality=lossless) & JuJu ![](https://cdn.discordapp.com/emojis/922303097949290536.webp?size=96&quality=lossless) (also I like pixel art)
 
-Checkout my portfolio at <https://alexjsully.me>!
+Checkout my portfolio at <https://alexjsully.me>
 
 ## 🌐 Socials
 
