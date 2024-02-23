@@ -15,7 +15,6 @@ Checkout my portfolio at <https://alexjsully.me>
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexanderjsullivan)
-[![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?logo=gitlab&logoColor=white)](https://gitlab.com/asully)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?&logo=X&logoColor=white)](https://twitter.com/AlexJSully)
 [![threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white)](https://www.threads.net/@alex.j.sullly)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%230085ffff.svg?&logo=Bluesky&logoColor=white)](https://bsky.app/profile/alexjsully.bsky.social)
