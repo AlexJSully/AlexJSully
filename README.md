@@ -20,7 +20,6 @@ Checkout my portfolio at <https://alexjsully.me>
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?&logo=X&logoColor=white)](https://twitter.com/AlexJSully)
 [![threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white)](https://www.threads.net/@alex.j.sullly)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%230085ffff.svg?&logo=Bluesky&logoColor=white)](https://bsky.app/profile/alexjsully.bsky.social)
-[![Instagram](https://img.shields.io/badge/Instagram-%23fa7e1eff.svg?logo=Instagram&logoColor=white)](https://instagram.com/ironjoohyun)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/alexjsully)
 
 # 📊 GitHub Stats
