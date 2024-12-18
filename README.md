@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hello world! My name is Alex and I'm a full stack developer and bioinformatician.
+👋 Hello world! My name is Alex and I'm a software developer and bioinformatician.
 <br><br>
 💻 Software developer at [Verily](https://verily.com/) ([@verily-src](https://github.com/verily-src))
 <br>
